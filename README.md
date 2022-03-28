@@ -1,6 +1,6 @@
-# Farmery
+# FarmCare
 This is a project for J component for the course Internet and Web programming.
-This is a simple web app for trading fruits, vegetables and other organic products directly from farms.
+This is a Buyer-seller plaform for farm products.
 
 #### ***Team Members***
 * Anmol
