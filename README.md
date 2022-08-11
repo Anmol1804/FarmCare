@@ -35,7 +35,7 @@ After installing these, clone this repository, go to the folder. Open terminal o
 
 * Clone the repo
 ```
-git clone https://github.com/siddarthamareedu/farmcare
+git clone https://github.com/Anmol1804/farmcare
 ```
 
 * Install npm packages
@@ -45,7 +45,7 @@ npm install
 
 To run this project type in you terminal or command prompt
 ```
-nodemon index.js
+node index.js
 ```
 and hit enter
 
